@@ -1,5 +1,5 @@
 {
-  "name": "fastfib-demo",
+  "name": "fastfib-demo-test",
   "version": "0.1.0",
   "description": "Calculate a Fibonacci number as fast as possible with JavaScript",
   "main": "index.js",
